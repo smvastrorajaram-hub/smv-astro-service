@@ -3,12 +3,12 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "AIzaSyCKXyfZ9sjGmej7ygxHpzHNcNysMXHuvSs",
   authDomain: "smv-astro.firebaseapp.com",
   projectId: "smv-astro",
   storageBucket: "smv-astro.firebasestorage.app",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  messagingSenderId: "299081899217",
+  appId: "1:299081899217:web:8d558df08e86037ea539f0",
 };
 
 const app = initializeApp(firebaseConfig);
